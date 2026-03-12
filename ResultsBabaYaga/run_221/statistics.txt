@@ -1,0 +1,72 @@
+  Process PID:        6918  running on lcp-lorenzato       
+  started            0  days,            0  hours,            0  minutes and            0  seconds ago
+  
+  Output last time written ~  0.20849999785423279       s ago
+  in which                 10000  events  have been generated (   20849.999785423279       ns/event)
+  All events generated at the rate:   49593.800306320190       ns/event
+  
+ final state = mm 
+ nominal ecms   =      0.2210 GeV
+ thmin for charged FS=      0.1000 deg
+ min invariant XX mass =      0.0000 GeV
+ acoll. =    180.0000 deg
+ emin   =       0.0000 GeV
+ ord    = exprad
+ model  = matched   
+ nphot mode =   -1
+ seed   =       10
+ iarun  =    1
+ (Novosibirsk alpha running)
+ eps    = .000000500
+ darkmod =    0
+ deltamax    =   1.009
+ deltamin    =   1.000
+  
+~ Generating       10000. weighted events ~
+  
+ ::::::>>>>>> weighted events <<<<<<::::::
+ 0 photons:       0.00000000 +-      0.00000000     (  0.0000 %)
+ 1 photons:    1789.07296395 +-     32.92250205     ( 72.7515 %)
+ 2 photons:     544.99061831 +-     16.27708569     ( 22.1617 %)
+ 3 photons:     107.39059850 +-      7.25740987     (  4.3670 %)
+ 4 photons:      16.69532341 +-      3.35231443     (  0.6789 %)
+ 5 photons:       0.93210166 +-      0.32405970     (  0.0379 %)
+ 6 photons:       0.07392293 +-      0.06324938     (  0.0030 %)
+ total:      2459.15552877 +-     34.04508794 nb
+  
+ total fwd/bwd:       0.00000000   2459.15552877     34.04508794      0.00000000
+  
+ n.        10000 of               10000.
+ cut points   1.03 %
+ ::::::>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<::::::
+  
+ ::::::>>>>>> unweighted events <<<<<<::::::
+ hit or miss efficiency   0.00 %
+ unweighted events generated           0.
+  
+ total (nb):         0.00000000 +-      0.00000000 +
+        !!!!         0.00000000 +-      0.00000000 (bias over fmax) +
+        !!!!        -0.00000000 +-      0.00000000 (bias negative)
+ total + biases:       0.00000000 +-      0.00000000
+  
+ N. accepted events:         9897
+  
+ N. accepted events with n>2:         1692
+  
+ N. events with review map:            0
+  
+ N. events quad precision:         3008
+  
+ N. unstable events:            0
+  
+ N. points with w > fmax (bias):            0
+ bias/hit and bias/(hit+missed): 0.0000000 % and  0.0000000 %
+ N. points with w < 0:           0
+ biases for w < 0:      0.00000 % and    0.00000 %
+  
+ Upper limits fmax and sdifmax       0.000000   71692.471330
+ when there were   1 photons
+ ::::::>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<::::::
+  
+ Born x-sect:         0.00000000 +-      0.00000000 nb
+  

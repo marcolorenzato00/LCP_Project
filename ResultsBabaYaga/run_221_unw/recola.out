@@ -1,0 +1,148 @@
+
+ ---------------------------------------------------------------------------
+  Pole masses and widths [GeV]:
+  M_Z   =  91.153480619183                Width_Z   =  2.4942663787728    
+  M_W   =  80.357973609878                Width_W   =  2.0842989982782    
+  M_H   =  125.00000000000                Width_H   =  0.0000000000000    
+  m_e   = 0.51099895000000E-03       
+  m_mu  = 0.10565837500000                Width_mu  =  0.0000000000000    
+  m_tau =  1.7768600000000                Width_tau =  0.0000000000000    
+  m_u   =  0.0000000000000           
+  m_d   =  0.0000000000000           
+  m_c   =  0.0000000000000                Width_c   =  0.0000000000000    
+  m_s   =  0.0000000000000           
+  m_t   =  172.50000000000                Width_t   =  0.0000000000000    
+  m_b   =  0.0000000000000                Width_b   =  0.0000000000000    
+ ---------------------------------------------------------------------------
+  Renormalization done in the complex-mass scheme
+ ---------------------------------------------------------------------------
+  fixed EW Renormalization Scheme: alpha0
+  alpha(0)    = 0.72973525694968E-02
+  alpha_Gf    = 0.75589159739226E-02   (for on-shell photons)
+ ---------------------------------------------------------------------------
+  alpha_s Renormalization Scheme: 5-flavours Scheme
+  alpha_s(Q) = 0.11800000000000           Q =  91.187600000000     GeV
+ ---------------------------------------------------------------------------
+  Delta_UV   =  0.0000000000000           mu_UV =  100.00000000000     GeV
+  Delta_IR^2 =  0.0000000000000    
+  Delta_IR   =  0.0000000000000           mu_IR =  100.00000000000     GeV
+ ---------------------------------------------------------------------------
+  Mass regularization for soft singularities
+  Mass regulator =  0.10000000000000E-09 GeV
+ ---------------------------------------------------------------------------
+
+ Process generation summary:
+ 16 processes defined
+  
+  Process 10: e- e+ -> A A
+  Tree currents    = 16
+  Tree branches    = 15352
+  Helicities       = 16
+  Colourflows      = 1
+  
+  Process 11: e- e+ -> A A
+  Tree currents    = 40
+  Tree branches    = 15352
+  Loop currents    = 80
+  Loop branches    = 2884
+  Tensor integrals = 10
+  Helicities       = 16
+  Colourflows      = 1
+  
+  Process 12: e- e+ -> A A A
+  Tree currents    = 42
+  Tree branches    = 15352
+  Helicities       = 32
+  Colourflows      = 1
+  
+  Process 20: e- e+ -> e- e+
+  Tree currents    = 16
+  Tree branches    = 15352
+  Helicities       = 16
+  Colourflows      = 1
+  
+  Process 21: e- e+ -> e- e+
+  Tree currents    = 40
+  Tree branches    = 15352
+  Loop currents    = 88
+  Loop branches    = 2884
+  Tensor integrals = 8
+  Helicities       = 16
+  Colourflows      = 1
+  
+  Process 22: e- e+ -> e- e+ A
+  Tree currents    = 90
+  Tree branches    = 15352
+  Helicities       = 32
+  Colourflows      = 1
+  
+  Process 30: e- e+ -> mu- mu+
+  Tree currents    = 12
+  Tree branches    = 15352
+  Helicities       = 16
+  Colourflows      = 1
+  
+  Process 31: e- e+ -> mu- mu+
+  Tree currents    = 24
+  Tree branches    = 15352
+  Loop currents    = 46
+  Loop branches    = 2884
+  Tensor integrals = 4
+  Helicities       = 16
+  Colourflows      = 1
+  
+  Process 90: e- e+ -> e- e+ A
+  Tree currents    = 90
+  Tree branches    = 15352
+  Helicities       = 32
+  Colourflows      = 1
+  
+  Process 80: e- e+ -> mu- mu+ A
+  Tree currents    = 50
+  Tree branches    = 15352
+  Helicities       = 32
+  Colourflows      = 1
+  
+  Process 91: e- e+ -> e- e+ A
+  Tree currents    = 298
+  Tree branches    = 15352
+  Loop currents    = 904
+  Loop branches    = 2884
+  Tensor integrals = 56
+  Helicities       = 32
+  Colourflows      = 1
+  
+  Process 81: e- e+ -> mu- mu+ A
+  Tree currents    = 162
+  Tree branches    = 15352
+  Loop currents    = 492
+  Loop branches    = 2884
+  Tensor integrals = 34
+  Helicities       = 32
+  Colourflows      = 1
+  
+  Process 70: e- e+ -> e- e+ A A
+  Tree currents    = 268
+  Tree branches    = 15352
+  Helicities       = 64
+  Colourflows      = 1
+  
+  Process 99: e- e+ -> mu- mu+ A A
+  Tree currents    = 148
+  Tree branches    = 15352
+  Helicities       = 64
+  Colourflows      = 1
+  
+  Process 56: e- e+ -> mu- mu+ A A A
+  Tree currents    = 438
+  Tree branches    = 15352
+  Helicities       = 128
+  Colourflows      = 1
+  
+  Process 57: e- e+ -> mu- mu+ A A A A
+  Tree currents    = 1304
+  Tree branches    = 15352
+  Helicities       = 256
+  Colourflows      = 1
+ ---------------------------------------------------------------------------
+
