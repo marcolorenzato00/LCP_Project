@@ -1,9 +1,9 @@
-  Process PID:     1449106  running on lcp-lorenzato       
-  started            0  days,            0  hours,            0  minutes and            0  seconds ago
+  Process PID:     1572373  running on lcp-lorenzato       
+  started            0  days,            0  hours,            0  minutes and            1  seconds ago
   
-  Output last time written ~   6.7940056324005127E-003  s ago
-  in which                 10000  events  have been generated (   679.40056324005127       ns/event)
-  All events generated at the rate:   32046.499848365784       ns/event
+  Output last time written ~   1.6729180812835693       s ago
+  in which                250000  events  have been generated (   6691.6723251342773       ns/event)
+  All events generated at the rate:   7958.0001831054688       ns/event
   
  final state = mm 
  nominal ecms   =      0.2210 GeV
@@ -19,19 +19,19 @@
  (Novosibirsk alpha running)
  eps    = .000000500
  darkmod =    0
- deltamax    =   0.000
+ deltamax    =   1.000
  deltamin    =   1.000
   
-~ Generating       10000. weighted events ~
+~ Generating      250000. weighted events ~
   
  ::::::>>>>>> weighted events <<<<<<::::::
- 0 photons:       0.00000000 +-      0.00000000     (     NaN %)
- total:         0.00000000 +-      0.00000000 nb
+ 0 photons:     767.59531511 +-      0.31433153     (100.0000 %)
+ total:       767.59531511 +-      0.31433153 nb
   
- total fwd/bwd:       0.00000000      0.00000000             NaN             NaN
+ total fwd/bwd:       0.00000000    767.59531511      0.31433153      0.00000000
   
- n.        10000 of               10000.
- cut points 100.00 %
+ n.       250000 of              250000.
+ cut points   0.00 %
  ::::::>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<::::::
   
  ::::::>>>>>> unweighted events <<<<<<::::::
@@ -43,7 +43,7 @@
         !!!!        -0.00000000 +-      0.00000000 (bias negative)
  total + biases:       0.00000000 +-      0.00000000
   
- N. accepted events:            0
+ N. accepted events:       250000
   
  N. accepted events with n>2:            0
   
@@ -58,9 +58,9 @@
  N. points with w < 0:           0
  biases for w < 0:      0.00000 % and    0.00000 %
   
- Upper limits fmax and sdifmax       0.000000       0.000000
+ Upper limits fmax and sdifmax       0.000000    1008.301333
  when there were   0 photons
  ::::::>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<::::::
   
- Born x-sect:         0.00000000 +-      0.00000000 nb
+ Born x-sect:       767.59531511 +-      0.31433153 nb
   
